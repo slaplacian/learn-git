@@ -31,3 +31,8 @@ Now I will delete Branches I have already merged:
 	git branch -d my-new-branch # If changes, you can force it using -f
 	git branch -d second-branch 
 	
+# END
+
+How many times can I commit in a single branch without making any commit? 
+
+	there is no end...
