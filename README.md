@@ -23,3 +23,11 @@ Afterwads, I changed README.md content but I did not deleted my-new-branch
 
 	git checkout main # It did not work because I had to commit changes before checkout 
 	git checkout -f main # It worked because flag -f forces it.
+
+# Third Commit
+
+Now I will delete Branches I have already merged:
+	
+	git branch -d my-new-branch # If changes, you can force it using -f
+	git branch -d second-branch 
+	
